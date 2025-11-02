@@ -1,8 +1,7 @@
 # 📊 Breaking Bad Dashboard
 
 ## 🧩 Overview  
-The **Breaking Bad Dashboard** is an interactive Tableau visualization that provides an analytical overview of the acclaimed TV series *Breaking Bad*.  
-It showcases key statistics such as episode details, IMDb ratings, viewer trends, and director contributions across all five seasons of the show.
+The **Breaking Bad Dashboard** is an interactive Tableau visualization that provides an analytical overview of the acclaimed TV series *Breaking Bad*. It showcases key statistics such as episode details, IMDb ratings, viewer trends, and director contributions across all five seasons of the show.
 
 ---
 
