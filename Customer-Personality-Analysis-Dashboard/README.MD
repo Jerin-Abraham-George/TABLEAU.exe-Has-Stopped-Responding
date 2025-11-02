@@ -6,6 +6,8 @@ The **Customer Personality Analysis Dashboard** is an interactive Tableau visual
 
 This project helps businesses **understand customer segments**, **identify high-value customers**, and **optimize marketing strategies** through data-driven insights.
 
+https://github.com/user-attachments/assets/7888d106-a8f7-44f3-9281-a84ccbe66072
+
 ---
 
 ## 🚀 Key Insights
