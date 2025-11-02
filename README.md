@@ -1,0 +1,2 @@
+# 🎨 Tableau.exe-Has-Stopped-Responding
+A professional portfolio of Tableau projects showcasing the power of data storytelling through interactive dashboards and visual analytics. Each project highlights practical business applications, effective data modeling, and design principles that transform complex datasets into actionable insights — proving that even when Tableau.exe “stops responding,” the insights never do.
