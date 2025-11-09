@@ -98,7 +98,6 @@ Data includes:
 
 ## 🧩 Tools Used
 - **Tableau Desktop / Tableau Public**
-- **Data Cleaning:** Excel / Python (optional preprocessing)
 - **Visualization Techniques:** Treemap, Heatmap, Map Plot, Bar & Donut Charts
 
 ---
@@ -120,5 +119,3 @@ Data includes:
 - Peak booking months occur during **May–June**, aligning with NYC’s travel season.  
 
 ---
-
-## 📁 Repository Structure
