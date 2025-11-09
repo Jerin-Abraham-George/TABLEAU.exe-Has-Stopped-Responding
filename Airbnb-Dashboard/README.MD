@@ -4,6 +4,8 @@
 This Tableau dashboard provides a comprehensive analysis of **Airbnb listings across New York City**, focusing on host activity, room types, pricing, reviews, and neighborhood distribution.  
 It offers valuable insights for hosts, travelers, and analysts interested in understanding Airbnb market dynamics in NYC.
 
+https://github.com/user-attachments/assets/fd1f0d8c-5bef-40f7-b155-c8aeb4412354
+
 ---
 
 ## 🗺️ Dashboard Highlights
