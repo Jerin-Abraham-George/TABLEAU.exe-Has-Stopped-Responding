@@ -1,1 +1,68 @@
+# 🏠 Airbnb NYC Tableau Dashboard
+
+## 📊 Overview
+This Tableau dashboard provides a comprehensive analysis of **Airbnb listings across New York City**, focusing on host activity, room types, pricing, reviews, and neighborhood distribution.  
+It offers valuable insights for hosts, travelers, and analysts interested in understanding Airbnb market dynamics in NYC.
+
+---
+
+## 🗺️ Dashboard Highlights
+
+### **Key Metrics**
+- **Total Hosts:** 37,457  
+- **Total Neighborhoods in NYC:** 221  
+- **Average Reviews per Month:** 1.373  
+- **Total Reviews:** 1,138,005  
+
+---
+
+## 🔍 Visual Components
+
+### **1. Total Bookings by Neighbourhood Group & Room Type**
+Displays the volume of Airbnb bookings segmented by NYC boroughs and room types:  
+- Entire home/apt  
+- Private room  
+- Shared room  
+
+**Insight:** Manhattan and Brooklyn dominate the booking landscape, with a high preference for entire homes/apartments.
+
+---
+
+### **2. Average Price by Neighbourhood Group**
+Treemap visualization showing the average price for each borough:
+- 🏙 **Manhattan:** \$196.9  
+- 🌉 **Brooklyn:** \$124.4  
+- 🏡 **Queens:** \$99.5  
+- 🗽 **Staten Island:** \$114.8  
+- 🧱 **Bronx:** \$87.5  
+
+**Insight:** Manhattan has the highest average Airbnb prices.
+
+---
+
+### **3. Top 10 Hosts by Total Reviews**
+Lists the most-reviewed hosts, their neighborhoods, and average prices.  
+**Example:** Top hosts are concentrated in Manhattan and Brooklyn with competitive pricing and strong guest engagement.
+
+---
+
+### **4. Average Reviews per Month by Room Type & Neighbourhood Group**
+Heatmap visualization showing how review frequency varies by location and room type.  
+**Insight:** Bronx and Staten Island have the highest average review rates for entire homes/apartments.
+
+---
+
+### **5. Total Neighbourhood Distribution**
+A donut chart showing Airbnb neighborhood distribution across boroughs:  
+- **Manhattan:** 44.3%  
+- **Brooklyn:** 41.1%  
+- **Queens:** 11.6%  
+- **Bronx:** 2.23%  
+- **Staten Island:** 0.76%  
+
+---
+
+### **6. Average Price by Neighborhood**
+Bar chart highlighting neighborhoods with the highest Airbnb prices:  
+- 🏖 **Fort Wadsworth:** \$800.00  
 
