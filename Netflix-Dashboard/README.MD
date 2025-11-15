@@ -29,6 +29,7 @@ The main objectives of this dashboard are to:
 - **Global Reach**: Content distributed across multiple countries with unique regional preferences.
 - **Yearly Growth**: Visualizing how Netflix’s content library has expanded over the years.
 
+
 ### 🎯 Rating Distribution
 | Rating Group     | # Titles |
 |------------------|----------|
@@ -48,17 +49,21 @@ The main objectives of this dashboard are to:
 | UR               | 7        |
 | NC-17            | 2        |
 
+
 ### 🌍 Country-Level Insight
 - **Global Content Distribution**: Interactive map showcasing the availability of Netflix content across different regions.
 - **Content Reach by Country**: Focus on major regions like the U.S., Europe, Asia, and Latin America.
+
 
 ### 🎥 Top Genres
 - **Top Genre by Count:** Documentaries, Stand-Up Comedy, Dramas, Comedies.
 - **Most Diverse Genres:** International, Drama, Family.
 
+
 ### 📊 Yearly Content Growth
 - **Content by Year**: An area chart that shows how Netflix has increased its content offerings, especially since 2008.
 - **Movies vs. TV Shows**: A comparison of the total number of movies and TV shows released, with movies dominating the content library.
+
 
 ### 🏆 Genre Performance
 - **Top Rating by Count**: TV-MA, TV-14, Tv-PG.
