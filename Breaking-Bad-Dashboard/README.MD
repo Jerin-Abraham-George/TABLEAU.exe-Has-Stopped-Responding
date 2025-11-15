@@ -82,5 +82,5 @@ The dashboard is designed to:
 
 ---
 
-⭐ *"I am the one who visualizes!"*  
+⭐⭐ *"I am the one who visualizes!"*  
 
