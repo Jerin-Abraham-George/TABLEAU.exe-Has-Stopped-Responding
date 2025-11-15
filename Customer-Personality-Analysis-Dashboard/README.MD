@@ -105,3 +105,5 @@ It helps organizations:
 - 🤝 Improve customer loyalty and retention  
 
 ---
+
+🍷😂 *"Because we all know it’s the wine that’s driving those purchases."*
