@@ -5,6 +5,8 @@ The **UEFA Champions League Dashboard** is a dynamic and interactive data visual
 
 From top players to the most successful clubs, this dashboard uncovers critical insights into one of the most prestigious football tournaments in the world. Whether you're a football enthusiast or data analyst, this dashboard provides the perfect blend of statistics and visual storytelling.
 
+https://github.com/user-attachments/assets/32a116d3-1712-491c-802c-622b8d1d685b
+
 ---
 
 ## 🎯 Objectives
