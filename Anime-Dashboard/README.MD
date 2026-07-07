@@ -1,9 +1,11 @@
-# 🎌 Anime Dashboard | Tableau
+# 🎌 Anime Dashboard
 
 ## 📘 Overview
 The **Anime Dashboard** is an interactive **Tableau** project built to explore and analyze one of the largest anime datasets. It provides insights into anime popularity, ratings, audience engagement, production details, and content characteristics through an intuitive and visually engaging dashboard.
 
 The project enables users to compare anime based on ratings, popularity, members, favorites, genres, studios, producers, licensors, source material, and more. It also offers a dedicated profile page for every anime title, making it useful for anime enthusiasts, researchers, and data analysts alike.
+
+https://github.com/user-attachments/assets/715b755e-1c95-476c-bf98-6dc8574511b6
 
 ---
 
