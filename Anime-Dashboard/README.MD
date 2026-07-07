@@ -244,4 +244,5 @@ The dashboard is built using a comprehensive anime dataset containing informatio
 - Poster Image
 
 ---
-⭐ *"Turning thousands of anime records into meaningful insights—helping discover what truly makes an anime legendary."*
+
+⭐ *"Because arguing over the best anime is easier when you have data."*
